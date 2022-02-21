@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/recipe-tracking-app/static/css/main.d7b96a50.chunk.css",
+    "main.js": "/recipe-tracking-app/static/js/main.adf04bb9.chunk.js",
+    "main.js.map": "/recipe-tracking-app/static/js/main.adf04bb9.chunk.js.map",
+    "runtime-main.js": "/recipe-tracking-app/static/js/runtime-main.68250650.js",
+    "runtime-main.js.map": "/recipe-tracking-app/static/js/runtime-main.68250650.js.map",
+    "static/js/2.6d741cec.chunk.js": "/recipe-tracking-app/static/js/2.6d741cec.chunk.js",
+    "static/js/2.6d741cec.chunk.js.map": "/recipe-tracking-app/static/js/2.6d741cec.chunk.js.map",
+    "index.html": "/recipe-tracking-app/index.html",
+    "precache-manifest.a0a2cef7142942e1b39b9fb6fcf44544.js": "/recipe-tracking-app/precache-manifest.a0a2cef7142942e1b39b9fb6fcf44544.js",
+    "service-worker.js": "/recipe-tracking-app/service-worker.js",
+    "static/css/main.d7b96a50.chunk.css.map": "/recipe-tracking-app/static/css/main.d7b96a50.chunk.css.map",
+    "static/js/2.6d741cec.chunk.js.LICENSE.txt": "/recipe-tracking-app/static/js/2.6d741cec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68250650.js",
+    "static/js/2.6d741cec.chunk.js",
+    "static/css/main.d7b96a50.chunk.css",
+    "static/js/main.adf04bb9.chunk.js"
+  ]
+}

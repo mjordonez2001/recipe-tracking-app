@@ -9,4 +9,4 @@ This app was built using HTML, CSS, and React.
 ![Recipe Tracker App](/recipetracker.png)
 
 ## Live Website
-A demo version of Recipe Tracker is able to be accessed through GitHub Pages at[mjordonez.github.io/recipe-tracking-app](mjordonez.github.io/recipe-tracking-app). 
+A demo version of Recipe Tracker is able to be accessed through GitHub Pages at [mjordonez.github.io/recipe-tracking-app](mjordonez.github.io/recipe-tracking-app). 
